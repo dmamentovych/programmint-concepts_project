@@ -1,2 +1,2 @@
-# programmint-concepts_project
+# Group project
 дай нам господи сил
